@@ -1,2 +1,3 @@
-# PlaneTracking-ARFoundationUnity3D
-PlaneTracking-ARFoundationUnity3D
+# Zombie Hunter-ARFoundationUnity3D
+
+Zombie Hunter with ARFoundationUnity3D
